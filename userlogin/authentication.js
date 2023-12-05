@@ -6,7 +6,7 @@ dotenv.config();
 
 // for register
 
-let arry = [];
+
 route.post("/register", register);
 // for login
 route.post("/login", login);
